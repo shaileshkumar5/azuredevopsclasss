@@ -1,3 +1,2 @@
 this is file a added with b
 
-added new data
